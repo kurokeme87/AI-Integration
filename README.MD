@@ -57,7 +57,7 @@ The script includes basic error handling and will print error messages if it fai
 
 ## Contributing
 
-Feel free to fork this repository and submit pull requests with any enhancements.
+Feel free to fork this repository and submit a pull requests with any enhancements.
 
 ## Disclaimer
 
